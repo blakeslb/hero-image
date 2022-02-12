@@ -74,7 +74,7 @@ h2 {
     }
   
 /* Breakpoint for tablet/laptop screen size  */
-@media only screen and (min-width: 480px){
+@media only screen and (min-width: 480px) and (max-width: 992px){
 
     .img-wrap {
         width: 25%;
@@ -86,5 +86,15 @@ h2 {
         }
 
     }
+/* Breakpoint for large desktop size  */
+@media only screen and (min-width: 992px){
+    .img-wrap {
+        width: 25%;
+        height: 100%;
+        }
+    #textbox {
+        bottom: 240px;
+    }
 
+}
     
