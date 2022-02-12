@@ -1,0 +1,10 @@
+Please recreate the Equity In Action hero using a single index.html file and front-end languages (HTML, CSS). The 4 images are included and following colors are provided here:
+
+#0074B8 (blue)
+#00AD62 (green)
+#FFFF00 (yellow)
+#8EC650 (light green)
+
+Our designer has also included a mockup for how the page hero should look on Desktop screens and how it should look on Mobile screens. Please use standards and best practices for responsive web design.
+
+You're welcome to use whatever tooling you feel comfortable in and provide us an index.html file for the completed task. GitHub Pages is also an option if you want to do the project through GitHub and self-host the static project. Codepen also has a Codepen Projects ability if you want to generate a project share link for us (you'll have to self-host the images in this case).
